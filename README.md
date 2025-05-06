@@ -41,7 +41,7 @@ Simple console interface with:
    - Gradle 7.4+
 
 2. **Clone the repository**:
-   ```bash
+   
    git clone https://github.com/yourusername/validate_sa_id.git
    cd validate_sa_id
 Build the project:
@@ -128,9 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Additional Files to Include:
 LICENSE (Create a file named LICENSE in your repo root):
 
-text
-Copy
-Download
 MIT License
 
 Copyright (c) [year] [fullname]
@@ -139,8 +136,6 @@ Permission is hereby granted...
 [Standard MIT License text]
 .gitignore (For Java/Gradle projects):
 
-Copy
-Download
 .gradle/
 build/
 .idea/
@@ -155,10 +150,6 @@ Add the license file
 Update the .gitignore
 
 Commit and push:
-
-bash
-Copy
-Download
 git add README.md LICENSE .gitignore
 git commit -m "Add project documentation"
 git push origin main
@@ -224,8 +215,6 @@ Citizenship   : SA Citizen
 
 FINAL VERDICT: VALID SA ID
 Testing
-bash
-Copy
 Download
 ./gradlew test
 License
