@@ -177,8 +177,7 @@ A Java application that validates South African ID numbers according to official
 
 ## Installation
 
-```bash
-git clone https://github.com/yourusername/validate_sa_id.git
+https://github.com/Mkhulekani/Validate_SA_ID.git
 cd validate_sa_id
 ./gradlew build
 Usage
