@@ -41,7 +41,7 @@ Simple console interface with:
    - Gradle 7.4+
 
 2. **Clone the repository**:
-   git clone https://github.com/yourusername/validate_sa_id.git
+   git clone https://github.com/Mkhulekani/Validate_SA_ID.git
    cd validate_sa_id
 Build the project:
 ./gradlew build
