@@ -182,17 +182,14 @@ git clone https://github.com/yourusername/validate_sa_id.git
 cd validate_sa_id
 ./gradlew build
 Usage
-bash
-Copy
-Download
+
+
 # Run with Gradle
 ./gradlew run
 
 # Or run the built JAR
 java -jar build/libs/validate_sa_id.jar
 Example Session
-Copy
-Download
 SOUTH AFRICAN ID VALIDATOR
 ==========================
 
